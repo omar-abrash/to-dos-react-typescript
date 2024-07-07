@@ -1,0 +1,21 @@
+.main {
+  height: 80px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 5px 5px 10px silver;
+  background-color: #12b6f1;
+}
+
+.main a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 50px;
+  margin-left: 30px;
+  background-color: #8ae5ed;
+  text-decoration: none;
+  color: unset;
+  border-radius: 10px;
+}

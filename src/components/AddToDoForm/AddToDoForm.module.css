@@ -1,0 +1,48 @@
+.main {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #8ae5ed;
+  border-radius: 10px;
+}
+
+.form-title {
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.input-part {
+  height: 100px;
+}
+
+.input-part label {
+  display: block;
+}
+
+.input-part input {
+  height: 40px;
+  width: 400px;
+  padding-left: 20px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.submit-part {
+  height: 50px;
+}
+
+.submit-part button {
+  height: 50px;
+  padding: 10px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
